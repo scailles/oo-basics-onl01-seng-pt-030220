@@ -4,3 +4,5 @@ class Shoe
   
   attr_accessor :name
   
+  
+  
