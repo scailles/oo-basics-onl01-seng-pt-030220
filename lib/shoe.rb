@@ -2,7 +2,7 @@
 
 class Shoe
   
-  attr_accessor :name
+  attr_accessor :brand, :color, :size
   
   
   
